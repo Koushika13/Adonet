@@ -155,7 +155,7 @@ namespace CaseStudy
         {
             AppEngine1 procedurec = new PersistantAppEngine();
             //procedurec.register();
-            procedurec.register()
+            procedurec.register();
 
         }
 
